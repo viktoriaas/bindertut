@@ -1,7 +1,7 @@
 # This file is for resource requests in CERIT-SC
 # Do not change, but not important for anyone
 gpu=1
-cpur=2
+   cpur=2
 cpul=4
-memr=1GB
-meml=4GB
+  memr=1GB
+meml=4GB   
