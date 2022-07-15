@@ -3,5 +3,5 @@
 gpu=1
    cpur=2
 cpul=4
-  memr=1GB
-meml=4GB   
+  memr=1
+meml=4   
